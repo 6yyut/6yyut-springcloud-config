@@ -1,2 +1,2 @@
-
-config-prod.yml
+config:
+  info:config-prod 1
