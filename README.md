@@ -1,1 +1,1 @@
-# 6yyut-springcloud-config
+# springcloude 配置中心
